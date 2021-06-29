@@ -21,6 +21,10 @@ My research tries to piece together four big topics that are of interest to math
 
 Check out the links for short introductions to each of these topics and suggested readings. 
 
+## Publications and preprints
+
+Nothing here yet...
+
 ## Bio
 
 I'm expected to graduate from Ecole Normale Supérieure Ulm in fall 2021 in mathematics, computer science and economics. 
