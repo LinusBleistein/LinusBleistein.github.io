@@ -12,7 +12,7 @@ I'm a first year Ph.D. candidate @ [Inria Paris in the HeKa Team](https://team.i
 ## Research interests
 
 My research tries to put together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
-1. Causal inference.
+1. [Causal inference](/causality.html).
 2. High dimensional statistics.
 3. Survival analysis.
 4. Time series and longitudinal data. 
