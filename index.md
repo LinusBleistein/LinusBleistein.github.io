@@ -17,6 +17,8 @@ My research tries to piece together four big topics that are of interest to math
 3. [Survival analysis](/survival.html).
 4. [Time series and longitudinal data](/ts.html). 
 
+Check out the links for short introductions to each of these topics and suggested readings. 
+
 ## Bio
 
 I'm expected to graduate from Ecole Normale Supérieure Ulm in fall 2021 in mathematics, computer science and economics. 
