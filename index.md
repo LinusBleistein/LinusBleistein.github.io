@@ -21,9 +21,6 @@ My research tries to piece together four big topics that are of interest to math
 
 Check out the links for short introductions to each of these topics and suggested readings. 
 
-## Publications and preprints
-
-Nothing here yet...
 
 ## Bio
 
@@ -36,3 +33,13 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 I am lucky to work at the beautiful [Centre de Recherche des Cordeliers](http://www.crc.jussieu.fr/), in the 6th district of Paris. Feel free to reach out if you want to stop by for coffee or lunch. 
 
 You can also contact me at firstname.lastname AT gmail dot com. 
+
+## Publications and preprints
+
+- H. El-Rais, M. Aflak-Kattar, L. Bleistein, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021.  
+
+## Misc. 
+
+- For my bachelor thesis at ENS Ulm, I worked on mixing time of markov chains with Linus Rösler and Dowan Koo under the supervision of [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Anna Ben-Hamou](http://www.lpsm.paris/dw/doku.php?id=users:benhamou:index). The manuscript is available [here](assets/pdfs/licence.pdf). 
+- My master thesis is about the signature transform and Wasserstein-GANs. I was supervised by [Adeline Fermanian](https://afermanian.github.io/), [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Gérard Biau](https://www.lpsm.paris/pageperso/biau/). The manuscript is [here](assets/pdfs/memoireM2.pdf).  
+- [Introducing features to the group testing model to improve signal reconstruction](https://raw.githubusercontent.com/LinusBleistein/Group-testing-with-knowledge/43be5b81f9efd0a68302d0675cee431c08f30211/Group%20Testing%20Linus%20Bleistein.pdf) - a small three month project for the class Computational Optimal Transport (Master MVA) by Gabriel Peyré.    
