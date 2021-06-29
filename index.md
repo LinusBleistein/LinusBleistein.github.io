@@ -33,9 +33,13 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 I am lucky to work at the beautiful [Centre de Recherche des Cordeliers](http://www.crc.jussieu.fr/), in the 6th district of Paris. My physical adress is
 
 Equipe 22
+
 Centre de Recherche des Cordeliers
+
 15, rue de l'Ecole de Médecine
+
 75006 Paris. 
+
 
 Feel free to reach out if you want to stop by for coffee or lunch.
 
