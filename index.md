@@ -13,9 +13,9 @@ I'm a first year Ph.D. candidate @ [Inria Paris in the HeKa Team](https://team.i
 
 My research tries to put together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
 1. [Causal inference](/causality.html).
-2. High dimensional statistics.
-3. Survival analysis.
-4. Time series and longitudinal data. 
+2. [High dimensional statistics](/highdim.html).
+3. [Survival analysis](/survival.html).
+4. [Time series and longitudinal data](/ts.html). 
 
 ## Bio
 
@@ -23,4 +23,4 @@ I'm expected to graduate from Ecole Normale Supérieure Ulm in fall 2021 in math
 
 ## Contact 
 
-Feel free to reach out at firstname.name AT gmail.com. 
+I am lucky to work at the beautiful [Centre de Recherche des Cordeliers](http://www.crc.jussieu.fr/), in the 6th district of Paris. Feel free to reach out if you want to stop by for coffee or lunch. You can also contact me at firstname.lastname AT gmail dot com. 
