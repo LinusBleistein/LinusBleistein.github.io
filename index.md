@@ -47,7 +47,15 @@ You can also contact me at firstname.lastname AT gmail dot com.
 
 ## Publications and preprints
 
-- H. El-Rais, M. Aflak-Kattar, L. Bleistein, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021.  
+- H. El-Rais, M. Aflak-Kattar, L. Bleistein, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
+
+## Communications 
+
+### Upcoming
+
+### Past
+
+- Groupe de Travail des Thésards du LPSM, ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
 
 ## Misc. 
 
