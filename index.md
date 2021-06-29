@@ -7,7 +7,7 @@ description:
 
 ## About
 
-I'm a first year Ph.D. candidate @ Inria Paris (HeKa Team) and Université Paris-Sacly under the supervision of Agathe Guilloux and Anne-Sophie Jannot. 
+I'm a first year Ph.D. candidate @ [Inria Paris in the HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Sacly under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
 ## Research interests
 
