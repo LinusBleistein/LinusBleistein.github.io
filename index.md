@@ -11,7 +11,11 @@ I'm a first year Ph.D. candidate @ Inria Paris (HeKa Team) and Université Paris
 
 ## Research interests
 
-My research deals with causal inference for high dimensional longitudinal survival data. I'm also broadly interested in time series (especially discrete time series), epidemiology, optimization and optimal transport. 
+My research tries to put together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
+1. Causal inference.
+2. High dimensional statistics.
+3. Survival analysis.
+4. Time series and longitudinal data. 
 
 ## Bio
 
