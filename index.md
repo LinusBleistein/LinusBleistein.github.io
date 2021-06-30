@@ -30,7 +30,7 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 
 ## Contact 
 
-I am lucky to work at the beautiful [Centre de Recherche des Cordeliers](http://www.crc.jussieu.fr/), in the 6th district of Paris. My physical adress is
+I am lucky to work at the beautiful [Centre de Recherche des Cordeliers](http://www.crc.jussieu.fr/), in the 6th district of Paris. My adress is
 
 Equipe 22
 
