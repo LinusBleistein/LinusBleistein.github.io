@@ -9,17 +9,19 @@ description:
 
 ## About
 
-I'm a first year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Sacly under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
+I'm a first year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
 ## Research interests
 
-My research tries to piece together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
+I work on causality and time series analysis for health data. The goal of my research is to piece together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
 1. [Causal inference](/causality.html).
 2. [High dimensional statistics](/highdim.html).
 3. [Survival analysis](/survival.html).
 4. [Time series and longitudinal data](/ts.html). 
 
 Check out the links for short introductions to each of these topics and suggested readings. 
+
+I am also more broadly interested in graphical models, reinforcement learning, variational inference and optimization.  
 
 
 ## Bio
