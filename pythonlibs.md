@@ -14,5 +14,4 @@ Enjoy, and feel free to suggest any other library !
 
 ### XlsxWriter 
 
-#### What does it do ? 
-XlsxWriter is a Python library that allows to create and modify Excel files in Python. For instance, you can use XlsxWriter to save multiple Pandas dataframes as different sheets in a single xls file, set the column width, change some values and plot a simple barchart directly from a Jupyter notebook. 
+[XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) is a Python library that allows to create and modify Excel files directly in Python. For instance, you can use XlsxWriter to save multiple Pandas dataframes as different sheets in a single xls file, set the width of some columns, change a few values and plot a simple barchart directly from a Jupyter notebook. 
