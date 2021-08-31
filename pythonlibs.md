@@ -12,4 +12,4 @@ Enjoy, and feel free to suggest any other library !
 
 ### napari
 
-### 
+### XlsxWriter 
