@@ -59,6 +59,11 @@ You can also contact me at firstname.lastname AT gmail dot com.
 
 - Groupe de Travail des Thésards du LPSM, ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
 
+## Teaching and other academic activities 
+
+- Python 101 for second year students of the master [Massive Data in Healthcare](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html) (9 hours).
+- With [Martin Dumont](https://www.aphp.fr/connaitre-lap-hp/recherche-innovation/nos-chaires-de-recherche/philosophie-lhopital-la-chaire), I co-organize an internship program called _Normaliens à l'Hôtel Dieu_, which allows a selected group of ENS students to intern in a parisian hospital. Students also get to meet researches and MDs and to visit different research units of AP-HP. It mainly targets non scientific students, but science students may also apply. If you're a student at ENS Ulm and would like to join the program, feel free to reach out. 
+
 ## Misc. 
 
 - For my bachelor thesis at ENS Ulm, I worked on mixing time of markov chains with Linus Rösler and Dowan Koo under the supervision of [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Anna Ben-Hamou](http://www.lpsm.paris/dw/doku.php?id=users:benhamou:index). The manuscript is available [here](assets/pdfs/licence.pdf). 
