@@ -45,7 +45,7 @@ Centre de Recherche des Cordeliers
 
 Feel free to reach out if you want to stop by for coffee or lunch.
 
-You can also contact me at firstname.lastname AT gmail dot com. 
+You can also contact me at firstname.lastname AT inria dot fr. 
 
 ## Publications and preprints
 
