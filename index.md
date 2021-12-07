@@ -61,7 +61,9 @@ You can also contact me at firstname.lastname AT inria dot fr.
 
 ## Teaching and other academic activities 
 
-- Python 101 for second year students of the master [Massive Data in Healthcare](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html) (9 hours).
+- 2021: Python 101 for second year students of the master [Massive Data in Healthcare](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html) (9 hours).
+
+- With fellow lab colleagues (Pierre Clavier, Fleur Gaudfernau and Ivan Lerner), I co-founded and currently organize the JSAIDH (Junior Seminar Artificial Intelligence and Digital Healthcare), a monthly junior seminar for young researchers from all labs working on AI and healthcare. More information can be found on our [website](https://seminairedoctorantcrc.github.io/aboutme/). 
 - With [Martin Dumont](https://www.aphp.fr/connaitre-lap-hp/recherche-innovation/nos-chaires-de-recherche/philosophie-lhopital-la-chaire), I co-organize an internship program called _Normaliens à l'Hôtel Dieu_, which allows a selected group of ENS students to intern in a parisian hospital. Students also get to meet researches and MDs and to visit different research units of AP-HP. It mainly targets non scientific students, but science students may also apply. If you're a student at ENS Ulm and would like to join the program, feel free to reach out. 
 
 ## Misc. 
