@@ -26,7 +26,7 @@ I am also more broadly interested in graphical models, reinforcement learning, v
 
 ## Bio
 
-I was born in Celle (Germany) and studied in Paris and Freibourg at the French-German Highschool. In 2016, after 3 years of classe préparatoire BL (mathematics, social sciences and humanities), I was accepted with full scholarship at Ecole Normale Supérieure (Paris), where I first studied economics before turning to mathematics, computer science and machine learning. I'm excpected to graduate in fall 2021.  
+I was born in Celle (Germany) and studied in Paris and Freibourg at the French-German Highschool. In 2016, after 3 years of classe préparatoire BL (mathematics, social sciences and humanities), I was accepted with full scholarship at Ecole Normale Supérieure (Paris), where I first studied economics before turning to mathematics, computer science and machine learning. I graduated from ENS Ulm in fall 2021. 
 
 I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree in [control, optimisation and calculus of variations](https://www.ljll.math.upmc.fr/MathModel/presentation/cocv.html) from Sorbonne University (form. Université Paris 6 - UPMC). Check out my CV for further details.
 
