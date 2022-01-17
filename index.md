@@ -55,6 +55,8 @@ You can also contact me at firstname.lastname AT inria dot fr.
 
 ### Upcoming
 
+- HeKA Lab Meeting, General thesis presentation, 31.01.2022
+
 ### Past
 
 - Groupe de Travail des Thésards du LPSM, ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
