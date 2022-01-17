@@ -73,3 +73,7 @@ You can also contact me at firstname.lastname AT inria dot fr.
 - My master thesis is about the signature transform and Wasserstein-GANs. I was supervised by [Adeline Fermanian](https://afermanian.github.io/), [Claire Boyer](http://www.lpsm.paris/pageperso/boyer/) and [Gérard Biau](https://www.lpsm.paris/pageperso/biau/). The manuscript is [here](assets/pdfs/memoireM2.pdf).  
 - [Introducing features to the group testing model to improve signal reconstruction](https://raw.githubusercontent.com/LinusBleistein/Group-testing-with-knowledge/43be5b81f9efd0a68302d0675cee431c08f30211/Group%20Testing%20Linus%20Bleistein.pdf) - a small three month project for the class Computational Optimal Transport (Master MVA) by Gabriel Peyré.    
 
+## More about me 
+
+I'm fluent in German, French and English. I love to hike, climb, cycle and enjoy the outdoors (as almost all people doing research).  
+
