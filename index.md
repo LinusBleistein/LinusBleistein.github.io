@@ -23,7 +23,6 @@ Check out the links for short introductions to each of these topics and suggeste
 
 I am also more broadly interested in graphical models, reinforcement learning, variational inference and optimization.  
 
-
 ## Bio
 
 I was born in Celle (Germany) and studied in Paris and Freibourg at the French-German Highschool. In 2016, after 3 years of classe préparatoire BL (mathematics, social sciences and humanities), I was accepted with full scholarship at Ecole Normale Supérieure (Paris), where I first studied economics before turning to mathematics, computer science and machine learning. I graduated from ENS Ulm in fall 2021. 
