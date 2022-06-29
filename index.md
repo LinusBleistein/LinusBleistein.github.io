@@ -5,7 +5,7 @@ description:
 ---
 
 
-![Cordeliers](/assets/img/cordelierssmall.jpg)
+![Cordeliers](/assets/img/pscsmall.jpg)
 
 ## About
 
