@@ -11,6 +11,11 @@ description:
 
 I'm a first year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
+## News
+
+- 01.07.2022: I will be attending StatMathAppli @ Fréjus (29.08-02.09). Write me a message if you wish to meet up there ! 
+- 01.03.2022: our team has moved to PariSantéCampus. Yay ! 
+
 ## Research interests
 
 I work on causality and time series analysis for health data. The goal of my research is to piece together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
@@ -21,7 +26,7 @@ I work on causality and time series analysis for health data. The goal of my res
 
 Check out the links for short introductions to each of these topics and suggested readings. 
 
-I am also more broadly interested in graphical models, reinforcement learning, variational inference and optimization.  
+I am also more broadly interested in rough analysis, optimization, reinforcement learning and theoretical machine learning.  
 
 ## Bio
 
@@ -31,15 +36,15 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 
 ## Contact 
 
-I am lucky to work at the beautiful [Centre de Recherche des Cordeliers](http://www.crc.jussieu.fr/), in the 6th district of Paris. My adress is
+I am lucky to work at the beautiful campus of [PariSantéCampus](https://parisantecampus.fr/), in the 15th district of Paris. My adress is
 
-Equipe 22
+Equipe HeKA
 
-Centre de Recherche des Cordeliers
+PariSantéCampus
 
-15, rue de l'Ecole de Médecine
+2-8, rue Oradour-sur-Glane 
 
-75006 Paris. 
+75015 Paris. 
 
 
 Feel free to reach out if you want to stop by for coffee or lunch.
