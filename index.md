@@ -13,7 +13,7 @@ I'm a first year Ph.D. candidate in machine learning and applied mathematics at 
 
 ## News
 
-- 12.07.2022: I will be presenting joint work with Adeline Fermanian, Agathe Guilloux and Anne-Sophie Jannot at StatMathAppli (Fréjus, 29.08-02.09) on. "Theoretical guarantees for learning with signatures". Meet me at the poster session !   
+- 12.07.2022: I will be presenting joint work with Adeline Fermanian, Agathe Guilloux and Anne-Sophie Jannot at StatMathAppli (Fréjus, 29.08-02.09) on "Theoretical guarantees for learning with signatures". Meet me at the poster session !   
 - 01.07.2022: I will be attending StatMathAppli @ Fréjus (29.08-02.09). Write me a message if you wish to meet up there ! 
 - 01.03.2022: our team has moved to PariSantéCampus. Yay ! 
 
