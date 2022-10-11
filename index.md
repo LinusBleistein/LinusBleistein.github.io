@@ -9,7 +9,7 @@ description:
 
 ## About
 
-I'm a first year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
+I'm a second year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
 ## News
 
@@ -60,19 +60,21 @@ You can also contact me at firstname.lastname AT inria dot fr.
 
 ### Upcoming
 
-- StatMathAppli (poster session), Theoretical guarantees for learning with signatures, 30.08.2022
+- GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
+- Marseille Medical Genetics (Marseille), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 28.11.2022
 
 ### Past
 
-- HeKA Lab Meeting, Thesis presentation, 31.01.2022
-- Groupe de Travail des Thésards du LPSM, ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
+- StatMathAppli (Fréjus, poster session), Theoretical guarantees for learning with signatures, 30.08.2022
+- HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
+- GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
 
 ## Teaching and other academic activities 
 
 - 2021: Python 101, [M2 Massive Data in Healthcare](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html) (9 hours).
 - 2021: Survival Analysis with Longitudinal Data, [M2 Massive Data in Healthcare](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html) (6 hours). Documents for this class can be found [here](https://github.com/LinusBleistein/DMS_longitudinal).
 
-- With fellow lab colleagues (Pierre Clavier, Fleur Gaudfernau and Ivan Lerner), I co-founded and currently organize the JSAIDH (Junior Seminar Artificial Intelligence and Digital Healthcare), a monthly junior seminar for young researchers from all labs working on AI and healthcare. More information can be found on our [website](https://seminairedoctorantcrc.github.io/aboutme/). 
+- With fellow lab colleagues (Pierre Clavier and Agathe Senellart), I co-founded and currently organize the JSAIDH (Junior Seminar Artificial Intelligence and Digital Healthcare), a monthly junior seminar for young researchers from all labs working on AI and healthcare. More information can be found on our [website](https://seminairedoctorantcrc.github.io/aboutme/). 
 - With [Martin Dumont](https://www.aphp.fr/connaitre-lap-hp/recherche-innovation/nos-chaires-de-recherche/philosophie-lhopital-la-chaire), I co-organize an internship program called _Normaliens à l'Hôtel Dieu_, which allows a selected group of ENS students to intern in a parisian hospital. Students also get to meet researches and MDs and to visit different research units of AP-HP. It mainly targets non scientific students, but science students may also apply. If you're a student at ENS Ulm and would like to join the program, feel free to reach out. 
 
 ## Misc. 
