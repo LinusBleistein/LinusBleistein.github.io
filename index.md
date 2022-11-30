@@ -62,11 +62,12 @@ You can also contact me at firstname.lastname AT inria dot fr.
 ### Upcoming
 
 - GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
+- SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 14.12.2022
 - Marseille Medical Genetics (Marseille), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 05.12.2022
-- CBIO Mines ParisTech - PSL (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 24.10.2022
 
 ### Past
 
+- CBIO Mines ParisTech - PSL (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 24.10.2022
 - StatMathAppli (Fréjus, poster session), Theoretical guarantees for learning with signatures, 30.08.2022
 - HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
 - GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
