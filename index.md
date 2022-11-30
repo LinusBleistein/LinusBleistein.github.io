@@ -62,7 +62,7 @@ You can also contact me at firstname.lastname AT inria dot fr.
 ### Upcoming
 
 - GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
-- SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 14.12.2022
+- SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 04.01.2022
 - Marseille Medical Genetics (Marseille), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 05.12.2022
 
 ### Past
