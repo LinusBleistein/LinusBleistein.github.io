@@ -13,9 +13,30 @@ I'm a second year Ph.D. candidate in machine learning and applied mathematics at
 
 ## News
 
+- 30.11.2022: My PhD advisor Agathe Guilloux and I are looking for an M2 intern for next spring. You can find more details [here](https://linusbleistein.github.io/assets/pdfs/Offre_de_stage_M2.pdf). 
 - 12.07.2022: I will be presenting joint work with Adeline Fermanian, Agathe Guilloux and Anne-Sophie Jannot at StatMathAppli (Fréjus, 29.08-02.09) on "Theoretical guarantees for learning with signatures". Meet me at the poster session !   
 - 01.07.2022: I will be attending StatMathAppli @ Fréjus (29.08-02.09). Write me a message if you wish to meet up there ! 
 - 01.03.2022: our team has moved to PariSantéCampus. Yay ! 
+
+## Publications and preprints
+
+- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, "Learning the dynamics of sparsely observed interacting systems", forthcoming, 2022. 
+- H. El-Rais, M. Aflak-Kattar, **L. Bleistein**, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
+
+## Communications 
+
+### Upcoming
+
+- GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
+- SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 04.01.2022
+- Marseille Medical Genetics (Marseille), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 05.12.2022
+
+### Past
+
+- CBIO Mines ParisTech - PSL (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 24.10.2022
+- StatMathAppli (Fréjus, poster session), Theoretical guarantees for learning with signatures, 30.08.2022
+- HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
+- GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
 
 ## Research interests
 
@@ -52,25 +73,6 @@ Feel free to reach out if you want to stop by for coffee or lunch.
 
 You can also contact me at firstname.lastname AT inria dot fr. 
 
-## Publications and preprints
-
-- L. Bleistein, A. Fermanian, A.S. Jannot, A. Guilloux, "Learning the dynamics of sparsely observed interacting systems", forthcoming, 2022. 
-- H. El-Rais, M. Aflak-Kattar, L. Bleistein, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
-
-## Communications 
-
-### Upcoming
-
-- GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
-- SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 04.01.2022
-- Marseille Medical Genetics (Marseille), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 05.12.2022
-
-### Past
-
-- CBIO Mines ParisTech - PSL (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 24.10.2022
-- StatMathAppli (Fréjus, poster session), Theoretical guarantees for learning with signatures, 30.08.2022
-- HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
-- GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
 
 ## Teaching and other academic activities 
 
