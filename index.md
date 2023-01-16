@@ -13,6 +13,7 @@ I'm a second year Ph.D. candidate in machine learning and applied mathematics at
 
 ## News
 
+- 16.01.2023: Killian Bakong-Epouné starts his internship in our lab today. He'll be working on signatures with Agathe Guilloux and myself.  
 - 30.11.2022: My PhD advisor Agathe Guilloux and I are looking for an M2 intern for next spring. You can find more details [here](https://linusbleistein.github.io/assets/pdfs/Offre_de_stage_M2.pdf). 
 - 12.07.2022: I will be presenting joint work with Adeline Fermanian, Agathe Guilloux and Anne-Sophie Jannot at StatMathAppli (Fréjus, 29.08-02.09) on "Theoretical guarantees for learning with signatures". Meet me at the poster session !   
 - 01.07.2022: I will be attending StatMathAppli @ Fréjus (29.08-02.09). Write me a message if you wish to meet up there ! 
