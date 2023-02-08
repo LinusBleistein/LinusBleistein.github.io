@@ -5,7 +5,7 @@ description:
 ---
 
 
-![Cordeliers](/assets/img/pscsmall.jpg)
+![Cordeliers](/assets/img/evolution_latent_space.png)
 
 ## About
 
