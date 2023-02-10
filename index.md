@@ -9,7 +9,7 @@ description:
 
 ## About
 
-I'm a second year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux](http://www.math-evry.cnrs.fr/members/aguilloux/welcome) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
+I'm a second year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux]([http://www.math-evry.cnrs.fr/members/aguilloux/welcome](https://sites.google.com/view/agatheguilloux-personalwebsite/accueil?authuser=0)) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
 ## News
 
