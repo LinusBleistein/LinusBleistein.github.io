@@ -21,7 +21,7 @@ I'm a second year Ph.D. candidate in machine learning and applied mathematics at
 
 ## Publications and preprints
 
-- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, "Learning the dynamics of sparsely observed interacting systems", forthcoming, 2022. 
+- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, ["Learning the dynamics of sparsely observed interacting systems"](https://arxiv.org/abs/2301.11647), 2023. 
 - H. El-Rais, M. Aflak-Kattar, **L. Bleistein**, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
 
 ## Communications 
