@@ -13,7 +13,7 @@ I'm a second year Ph.D. candidate in machine learning and applied mathematics at
 
 ## News
 
-- 29.03.2023: I just landed in beautiful Abu-Dhabi, where I'll be visiting [MBZUAI's Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) for 2 months. Ping me if you wish to meet ! 
+- 29.03.2023: I just landed in Abu-Dhabi, where I'll be visiting [MBZUAI's Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) for 2 months. Ping me if you wish to meet ! 
 - 28.03.2023: I had the great pleasure to discuss signatures and dynamical systems with EDF's research team. Lots of new ideas and exciting projects ahead !
 - 16.01.2023: Killian Bakong-Epouné starts his internship in our lab today. He'll be working on signatures with Agathe Guilloux and myself.  
 - 30.11.2022: My PhD advisor Agathe Guilloux and I are looking for an M2 intern for next spring. You can find more details [here](https://linusbleistein.github.io/assets/pdfs/Offre_de_stage_M2.pdf). 
