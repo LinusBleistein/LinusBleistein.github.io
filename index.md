@@ -9,7 +9,7 @@ description:
 
 ## About
 
-I'm a second year Ph.D. candidate in machine learning and applied mathematics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux]([http://www.math-evry.cnrs.fr/members/aguilloux/welcome](https://sites.google.com/view/agatheguilloux-personalwebsite/accueil?authuser=0)) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
+I'm a second year Ph.D. candidate in machine learning, applied mathematics and statistics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux]([http://www.math-evry.cnrs.fr/members/aguilloux/welcome](https://sites.google.com/view/agatheguilloux-personalwebsite/accueil?authuser=0)) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
 ## News
 
@@ -30,9 +30,10 @@ I'm a second year Ph.D. candidate in machine learning and applied mathematics at
 
 ### Upcoming
 
-- EDF (Paris), Learning with signatures, 28.03.2023
+- Fime Summer School on Big Data and Finance (Aussois), TBD, June 2023
 
 ### Past
+- EDF (Paris), Learning with signatures, 28.03.2023
 - GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
 - SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 04.01.2022
 - Marseille Medical Genetics (Marseille), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 05.12.2022
@@ -43,15 +44,9 @@ I'm a second year Ph.D. candidate in machine learning and applied mathematics at
 
 ## Research interests
 
-I work on causality and time series analysis for health data. The goal of my research is to piece together four big topics that are of interest to mathematicians, biostatisticians, MDs, economists (and many more): 
-1. [Causal inference](/causality.html).
-2. [High dimensional statistics](/highdim.html).
-3. [Survival analysis](/survival.html).
-4. [Time series and longitudinal data](/ts.html). 
+I am broadly interested in designing and analyzing algorithms that can learn from irregular, heavily biased and noisy data, with a particular focus on medical data and applications.
 
-Check out the links for short introductions to each of these topics and suggested readings. 
-
-I am also more broadly interested in rough analysis, optimization, reinforcement learning and theoretical machine learning.  
+My specific research interests include causal deep learning, irregular time series, dynamical systems and statistical learning theory.  
 
 ## Bio
 
