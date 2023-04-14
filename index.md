@@ -11,6 +11,10 @@ description:
 
 I'm a second year Ph.D. candidate in machine learning, applied mathematics and statistics at Inria Paris in the [HeKa Team](https://team.inria.fr/heka/fr/) and Université Paris-Saclay under the supervision of [Agathe Guilloux]([http://www.math-evry.cnrs.fr/members/aguilloux/welcome](https://sites.google.com/view/agatheguilloux-personalwebsite/accueil?authuser=0)) and [Anne-Sophie Jannot](https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/). 
 
+I was born in Celle (Germany) and studied in Freibourg (French-German Highschool) and Paris. In 2016, after 2 years of classe préparatoire BL (mathematics, social sciences and humanities), I was accepted with full scholarship at Ecole Normale Supérieure (Paris), where I first studied economics before turning to mathematics, computer science and machine learning. I graduated from ENS Ulm in fall 2021 in economics, mathematics and computer science. 
+
+I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree in [control, optimisation and calculus of variations](https://www.ljll.math.upmc.fr/MathModel/presentation/cocv.html) from Sorbonne University (form. Université Paris 6 - UPMC). 
+
 ## News
 
 - 29.03.2023: I just landed in Abu-Dhabi, where I'll be visiting [MBZUAI's Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) for 2 months. Ping me if you wish to meet ! 
@@ -47,12 +51,6 @@ I'm a second year Ph.D. candidate in machine learning, applied mathematics and s
 I am broadly interested in designing and analyzing algorithms that can learn from irregular, heavily biased and noisy data, with a particular focus on medical data and applications.
 
 My specific research interests include causal deep learning, irregular time series, dynamical systems and statistical learning theory.  
-
-## Bio
-
-I was born in Celle (Germany) and studied in Paris and Freibourg at the French-German Highschool. In 2016, after 3 years of classe préparatoire BL (mathematics, social sciences and humanities), I was accepted with full scholarship at Ecole Normale Supérieure (Paris), where I first studied economics before turning to mathematics, computer science and machine learning. I graduated from ENS Ulm in fall 2021. 
-
-I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree in [control, optimisation and calculus of variations](https://www.ljll.math.upmc.fr/MathModel/presentation/cocv.html) from Sorbonne University (form. Université Paris 6 - UPMC). Check out my CV for further details.
 
 ## Contact 
 
