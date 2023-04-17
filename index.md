@@ -17,6 +17,7 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 
 ## News
 
+- 14.04.2023: I will be attending the Fime Summer School on Big Data and Finance in Aussois next June. 
 - 29.03.2023: I just landed in Abu-Dhabi, where I'll be visiting [MBZUAI's Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) for 2 months. Ping me if you wish to meet ! 
 - 28.03.2023: I had the great pleasure to discuss signatures and dynamical systems with EDF's research team. Lots of new ideas and exciting projects ahead !
 - 16.01.2023: Killian Bakong-Epouné starts his internship in our lab today. He'll be working on signatures with Agathe Guilloux and myself.  
