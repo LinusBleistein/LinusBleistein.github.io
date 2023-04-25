@@ -15,6 +15,12 @@ I was born in Celle (Germany) and studied in Freibourg (French-German Highschool
 
 I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree in [control, optimisation and calculus of variations](https://www.ljll.math.upmc.fr/MathModel/presentation/cocv.html) from Sorbonne University (form. Université Paris 6 - UPMC). 
 
+## Research interests
+
+I am broadly interested in designing and analyzing algorithms that can learn from irregular, heavily biased and noisy data, with a particular focus on medical data and applications.
+
+At this moment, my specific research interests include causal deep learning, irregular time series, dynamical systems and statistical learning theory. I strongly believe that "for something to become interesting, you just have to look at it for a long time" (roughly Gustave Flaubert).    
+
 ## News
 
 - 25.04.2023 : my first PhD paper "Learning the Interactions of Sparsely Observed Interacting Systems" written w. [Adeline Fermanian](https://afermanian.github.io/), [Agathe Guilloux](https://sites.google.com/view/agatheguilloux-personalwebsite/) and Anne-Sophie Jannot was accepted at ICML 2023 ! 
@@ -47,12 +53,6 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 - StatMathAppli (Fréjus, poster session), Theoretical guarantees for learning with signatures, 30.08.2022
 - HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
 - GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
-
-## Research interests
-
-I am broadly interested in designing and analyzing algorithms that can learn from irregular, heavily biased and noisy data, with a particular focus on medical data and applications.
-
-My specific research interests include causal deep learning, irregular time series, dynamical systems and statistical learning theory.  
 
 ## Contact 
 
