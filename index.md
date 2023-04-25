@@ -17,6 +17,7 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 
 ## News
 
+- 25.04.2023 : my first PhD paper "Learning the Interactions of Sparsely Observed Interacting Systems" written w. [Adeline Fermanian](https://afermanian.github.io/), [Agathe Guilloux](https://sites.google.com/view/agatheguilloux-personalwebsite/) and Anne-Sophie Jannot was accepted at ICML 2023 ! 
 - 14.04.2023: I will be attending the Fime Summer School on Big Data and Finance in Aussois next June. 
 - 29.03.2023: I just landed in Abu-Dhabi, where I'll be visiting [MBZUAI's Machine Learning Department](https://mbzuai.ac.ae/research/department/machine-learning-department/) for 2 months. Ping me if you wish to meet ! 
 - 28.03.2023: I had the great pleasure to discuss signatures and dynamical systems with EDF's research team. Lots of new ideas and exciting projects ahead !
@@ -28,7 +29,7 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 
 ## Publications and preprints
 
-- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, ["Learning the dynamics of sparsely observed interacting systems"](https://arxiv.org/abs/2301.11647), 2023. 
+- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, ["Learning the dynamics of sparsely observed interacting systems"](https://arxiv.org/abs/2301.11647), ICML, 2023. 
 - H. El-Rais, M. Aflak-Kattar, **L. Bleistein**, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
 
 ## Communications 
