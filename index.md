@@ -54,23 +54,6 @@ At this moment, my specific research interests include causal deep learning, irr
 - HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
 - GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
 
-## Contact 
-
-I am lucky to work at the beautiful campus of [PariSantéCampus](https://parisantecampus.fr/), in the 15th district of Paris. My adress is
-
-Equipe HeKA
-
-PariSantéCampus
-
-2-8, rue Oradour-sur-Glane 
-
-75015 Paris. 
-
-
-Feel free to reach out if you want to stop by for coffee or lunch.
-
-You can also contact me at firstname.lastname AT inria dot fr. 
-
 
 ## Teaching and other academic activities 
 
@@ -90,4 +73,21 @@ You can also contact me at firstname.lastname AT inria dot fr.
 ## More about me 
 
 I'm fluent in German, French and English. I love to hike, climb, cycle and enjoy the outdoors (as almost all people doing research).  
+
+## Contact 
+
+I am lucky to work at the beautiful campus of [PariSantéCampus](https://parisantecampus.fr/), in the 15th district of Paris. My adress is
+
+Equipe HeKA
+
+PariSantéCampus
+
+2-8, rue Oradour-sur-Glane 
+
+75015 Paris. 
+
+
+Feel free to reach out if you want to stop by for coffee or lunch.
+
+You can also contact me at firstname.lastname AT inria dot fr. 
 
