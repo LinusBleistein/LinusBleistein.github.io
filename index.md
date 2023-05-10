@@ -42,7 +42,9 @@ At this moment, my specific research interests include causal deep learning, irr
 
 ### Upcoming
 
-- Fime Summer School on Big Data and Finance (Aussois), TBD, June 2023
+- ICML 2023 (Honolulu), Poster Session, July 2023
+- Fime Summer School on Big Data and Finance (Aussois), "Handling rough data with NCDEs and signatures", June 2023
+- EPICLIN 2023 (Nancy), "Modèles de signature pour l'inférence de données d'épidémiologie en temps réel" (presented by A.S. Jannot), 11.05.2023
 
 ### Past
 - EDF (Paris), Learning with signatures, 28.03.2023
