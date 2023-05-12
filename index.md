@@ -35,6 +35,7 @@ At this moment, my specific research interests include causal deep learning, irr
 
 ## Publications and preprints
 
+- **L. Bleistein**, A. Guilloux, "Generalization bounds for learning with irregularly time series", _forthcoming_.
 - **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, ["Learning the dynamics of sparsely observed interacting systems"](https://arxiv.org/abs/2301.11647), ICML, 2023. 
 - H. El-Rais, M. Aflak-Kattar, **L. Bleistein**, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
 
@@ -44,9 +45,10 @@ At this moment, my specific research interests include causal deep learning, irr
 
 - ICML 2023 (Honolulu), Poster Session, July 2023
 - Fime Summer School on Big Data and Finance (Aussois), "Handling rough data with NCDEs and signatures", June 2023
-- EPICLIN 2023 (Nancy), "Modèles de signature pour l'inférence de données d'épidémiologie en temps réel" (presented by A.S. Jannot), 11.05.2023
 
 ### Past
+
+- EPICLIN 2023 (Nancy), "Modèles de signature pour l'inférence de données d'épidémiologie en temps réel" (presented by A.S. Jannot), 11.05.2023
 - EDF (Paris), Learning with signatures, 28.03.2023
 - GTT LPSM (Paris), Learning the dynamics of sparsely observed interacting systems for real-time prediction, 09.01.2023
 - SODA (Inria Paris), Learning the dynamics of sparsely observed interacting systems, 04.01.2022
@@ -55,7 +57,6 @@ At this moment, my specific research interests include causal deep learning, irr
 - StatMathAppli (Fréjus, poster session), Theoretical guarantees for learning with signatures, 30.08.2022
 - HeKA Lab Meeting (Paris), Thesis presentation, 31.01.2022
 - GTT LPSM (Paris), ["Wasserstein-GANs and the signature transform"](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/wasserstein-gans-and-signature-transform/), 09.09.2020.   
-
 
 ## Teaching and other academic activities 
 
