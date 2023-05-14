@@ -19,7 +19,13 @@ I hold a BSc in economics and in mathematics from ENS Ulm, and a Master degree i
 
 I am broadly interested in designing and analyzing algorithms that can learn from irregular, heavily biased and noisy data, with a particular focus on medical data and applications.
 
-At this moment, my specific research interests include causal deep learning, irregular time series, dynamical systems and statistical learning theory. I strongly believe that "for something to become interesting, you just have to look at it for a long time" (roughly Gustave Flaubert).    
+At this moment, my specific research interests include theoretical deep learning, causal inference, irregular time series, dynamical systems and statistical learning theory. I strongly believe that "for something to become interesting, you just have to look at it for a long time" (roughly Gustave Flaubert).    
+
+## Publications and preprints
+
+- **L. Bleistein**, A. Guilloux, "Generalization bounds for learning with irregularly sampled time series", _forthcoming_.
+- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, ["Learning the dynamics of sparsely observed interacting systems"](https://arxiv.org/abs/2301.11647), ICML, 2023. 
+- H. El-Rais, M. Aflak-Kattar, **L. Bleistein**, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
 
 ## News
 
@@ -32,12 +38,6 @@ At this moment, my specific research interests include causal deep learning, irr
 - 12.07.2022: I will be presenting joint work with Adeline Fermanian, Agathe Guilloux and Anne-Sophie Jannot at StatMathAppli (Fréjus, 29.08-02.09) on "Theoretical guarantees for learning with signatures". Meet me at the poster session !   
 - 01.07.2022: I will be attending StatMathAppli @ Fréjus (29.08-02.09). Write me a message if you wish to meet up there ! 
 - 01.03.2022: our team has moved to PariSantéCampus. Yay ! 
-
-## Publications and preprints
-
-- **L. Bleistein**, A. Guilloux, "Generalization bounds for learning with irregularly sampled time series", _forthcoming_.
-- **L. Bleistein**, A. Fermanian, A.S. Jannot, A. Guilloux, ["Learning the dynamics of sparsely observed interacting systems"](https://arxiv.org/abs/2301.11647), ICML, 2023. 
-- H. El-Rais, M. Aflak-Kattar, **L. Bleistein**, [Parcours hospitaliers des patients atteints de la Covid-19 de mars 2020 à janvier 2021](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/parcours-hospitaliers-des-patients-atteints-de-la-covid-19-de), _Les dossiers de la DREES_, 2021. 
 
 ## Communications 
 
