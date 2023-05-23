@@ -43,7 +43,7 @@ At this moment, my specific research interests include theoretical deep learning
 
 ### Upcoming
 
-- ICML 2023 (Honolulu), Poster Session, July 2023
+- ICML 2023 (Honolulu), "Learning the Interactions of Sparsely Observed Interacting Systems" Poster Session, July 2023
 - Fime Summer School on Big Data and Finance (Aussois), "Handling rough data with NCDEs and signatures", June 2023
 
 ### Past
