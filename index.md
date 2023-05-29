@@ -4,5 +4,5 @@ title: Linus Bleistein
 description: 
 ---
 
-My website has moved [here)(linusbleistein.com)
+My website has moved [here](linusbleistein.com)
 
